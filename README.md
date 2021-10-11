@@ -1,6 +1,7 @@
 # de-lernen
 
 input file : Grammer_Verven_Wort.xlsx (always find sheet named verbal)
+
 runcmd : python.exe .\verben.py
 
 Program will start after run command
